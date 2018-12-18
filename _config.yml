@@ -1,0 +1,13 @@
+title: "min3/ToQoz"
+description: >
+  min3/ToQoz
+baseurl: ""
+url: "https://toqoz.github.io/min3"
+github_username: toqoz
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+theme: minima
+plugins:
+  - jekyll-feed
